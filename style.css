@@ -4,9 +4,6 @@ body {
     justify-content: center;
     height:100vh;
     background-color: #073b4c;
-    body {
-        font-size: 20px; /* increase the font size */
-    }
   }
   
   .birthdayCard {
