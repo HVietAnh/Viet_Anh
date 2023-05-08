@@ -121,8 +121,8 @@ body {
   .cardInside {
     position: absolute;
     background-color: #fff;
-    width: 450px;
-    height:550px;
+    width: 350px;
+    height:450px;
     z-index:-1;
     left:0;
     top:0;
@@ -145,7 +145,7 @@ body {
     font-family: Tahoma, sans-serif;
     color: #333;
     text-align: center;
-    margin:30px; 
+    margin:50px; 
     outline-color:#333;
     outline-style: dotted;
   }
