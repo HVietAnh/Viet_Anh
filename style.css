@@ -121,14 +121,13 @@ body {
   .cardInside {
     position: absolute;
     background-color: #fff;
-    width: 250px;
-    height:350px;
+    width: 350px;
+    height:450px;
     z-index:-1;
     left:0;
     top:0;
     box-shadow: inset 100px 20px 100px rgba(0,0,0,0.2);
   }
-  
   p {
     font-family: 'Brush Script MT', cursive;
     margin: 40px;
