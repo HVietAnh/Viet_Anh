@@ -1,0 +1,17 @@
+.animated-word {
+  display: flex;
+  align-items: center; 
+  Justify-content: center;
+}
+.letter {
+  transition: 0.4s;
+  transform: translateX(0);
+  cursor:grab;
+  color: #fff;
+}
+.letter:hover {
+  transform: translatey-Iren);
+  background: -webkit-linear-gradient(120deg,hsl(19, 90%, 52%), hsl(56, 100%, 50%));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
